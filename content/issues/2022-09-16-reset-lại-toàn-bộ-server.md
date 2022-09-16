@@ -2,7 +2,7 @@
 section: issue
 title: Reset lại toàn bộ server
 date: 2022-09-16T16:00:05.967Z
-resolved: false
+resolved: true
 draft: false
 informational: true
 pin: true
