@@ -14,3 +14,5 @@ affected:
 severity: disrupted
 ---
 *Đêm nay mình sẽ reset lại toàn bộ server do một số vấn đề về filesystem, dự kiến sẽ sửa trong vòng 1 tiếng.*
+
+*U﻿pdate: Đã sửa xong*
