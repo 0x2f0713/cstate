@@ -4,7 +4,7 @@ title: Đổi IP toàn bộ server
 date: 2022-09-18T04:47:22.715Z
 resolved: true
 draft: false
-informational: true
+informational: false
 pin: false
 resolvedWhen: 2022-09-18T04:47:22.769Z
 severity: notice
