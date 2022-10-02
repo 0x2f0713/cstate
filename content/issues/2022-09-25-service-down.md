@@ -2,7 +2,7 @@
 section: issue
 title: Service down
 date: 2022-09-25T04:02:17.528Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
